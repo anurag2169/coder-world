@@ -1,0 +1,9 @@
+"title": "codewear",
+"slug": "code-wear",
+"desc": "req.body[i].desc",
+"img":" req.body[i].img",
+"category": "req.body[i].category",
+"color": "black",
+"size": "Xl",
+"price": 499,
+"availableQty": 1
